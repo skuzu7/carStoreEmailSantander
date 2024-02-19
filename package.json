@@ -1,0 +1,12 @@
+{
+  "name": "car-store",
+  "version": "1.0.0",
+  "description": "Send emails to customers ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "AJ",
+  "license": "ISC"
+}
